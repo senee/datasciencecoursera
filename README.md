@@ -17,5 +17,8 @@ $ git remote add origin https://github.com/usenee/Hello-World.git
 
 $ git push master
 
+$ git push origin master
+
+
 
 
