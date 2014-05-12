@@ -13,4 +13,9 @@ $ git init
 
 $ touch README
 
+$ git remote add origin https://github.com/usenee/Hello-World.git
+
+$ git push master
+
+
 
